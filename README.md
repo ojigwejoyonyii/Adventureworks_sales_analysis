@@ -127,26 +127,14 @@ Based on the current dataset (Jan 2020 – Jun 2022):
 
 ---
 
-## 📂  Project Files
+## 📂  Repository Structure
+- Data
+- Documentation
+- Images
+- Power BI
+- 
 
-```
-├── data/
-│   ├── AdventureWorks Customer Lookup.csv
-│   ├── AdventureWorks Product Lookup.csv
-│   ├── AdventureWorks Product Categories Lookup.csv
-│   ├── AdventureWorks Product Subcategories Lookup.csv
-│   ├── AdventureWorks Territory Lookup.csv
-│   ├── AdventureWorks Returns Data.csv
-│   ├── AdventureWorks_Calendar_Lookup.csv
-│   └── Sales_2020-2022.csv
-├── PowerBI/
-│   └── AdventureWorks_Analysis.pbix   
-├── docs/
-│   └── screenshots/                   
-├── README.md                          
-```
 
----
 
 
 
