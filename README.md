@@ -14,3 +14,14 @@ The client needs a single Power BI report to support data-driven decisions acros
 - **Identify high-value customers** — Quantify revenue concentration among top customers to support retention and account-prioritization decisions.
 - **Enable self-service analysis** — Deliver an interactive, filterable report rather than static exports.
 
+## 🛠️ Tools & Technologies
+
+| Category | Tool |
+|---|---|
+| Data Modeling & Visualization | Microsoft Power BI Desktop |
+| Data Transformation | Power Query (M language) |
+| Calculations & Measures | DAX (Data Analysis Expressions) |
+| Data Sources | 8 CSV files (AdventureWorks raw data export) |
+| Version Control | Git & GitHub |
+| Documentation | Markdown |
+
